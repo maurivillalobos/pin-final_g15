@@ -1,5 +1,4 @@
-# pin-final_g15
- Trabajo PIN Final MundosE 2402 - Grupo 15
+# Trabajo PIN Final MundosE 2402 - Grupo 15
 
  Este trabajo lo pensamos con capas, donde nos centramos en la config de una instancia EC2 en AWS, y desde allí administrar las demás tareas. Va a continuación un detalle de estas capas:
 
@@ -43,7 +42,7 @@
        - Prometheus: Recolección de métricas
        - Grafana: Visualización y dashboards
 
-Desarrollo del proyecto:
+## Desarrollo del proyecto:
 
 1 - Crear y configurar instancia EC2
 
