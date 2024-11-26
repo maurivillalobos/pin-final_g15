@@ -1,7 +1,9 @@
 # pin-final_g15
  Trabajo PIN Final MundosE 2402 - Grupo 15
 
- Este trabajo lo pensamos con capas, donde nos centramos en la config de una instancia EC2 en AWS, y desde allí administrar las demás tareas. Va a continuación un detalle de esatas capas:
+ Este trabajo lo pensamos con capas, donde nos centramos en la config de una instancia EC2 en AWS, y desde allí administrar las demás tareas. Va a continuación un detalle de estas capas:
+
+![Diagram Infra](./diagrama-infra.png)
 
 1 - Capa de Control de Versiones:
     - Repositorio GitHub: Almacena todo el código de infraestructura como código
